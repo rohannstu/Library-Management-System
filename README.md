@@ -126,9 +126,4 @@ library-management-system/
 └── README.md               # This file
 ```
 
-## License
 
-This project is licensed under the MIT License. 
-
-# Library-Management-System
-# Library-Management-System
